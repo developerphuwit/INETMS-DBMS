@@ -1,6 +1,6 @@
 --Assessment
 
---Linked Update service pacth: --https://www.catalog.update.microsoft.com/ --https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html#google_vignette
+--Linked Update service pacth: https://support.microsoft.com/en-us/servicing/sql/sql-server-2025/kb5005684-build-versions
 --CIS Doc: --https://downloads.cisecurity.org/#/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
